@@ -1,0 +1,39 @@
+; test tree for 5 leaf nodes
+.ORIG x6000
+
+.FILL x41;A
+.FILL x6003
+.FILL x6015
+
+.FILL x42;B
+.FILL x6006
+.FILL x6012
+
+.FILL x43;C
+.FILL x6009
+.FILL x6015
+
+.FILL x44;D
+.FILL x600C
+.FILL x6018
+
+.FILL x45;E
+.FILL x0
+.FILL x0
+
+.FILL x46;F
+.FILL x0
+.FILL x0
+
+.FILL x47;G
+.FILL x0
+.FILL x0
+
+.FILL x48;H
+.FILL x0
+.FILL x0
+
+.FILL x49;I
+.FILL x0
+.FILL x0
+.END
